@@ -1,0 +1,10 @@
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.csprojAssemblyReference.cache
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.Form1.resources
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.Properties.Resources.resources
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.GenerateResource.cache
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\Users\Inmaculada\Documents\3A\SO\Temperatura\Temperatura\obj\Debug\Temperatura.pdb
